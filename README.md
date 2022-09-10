@@ -33,7 +33,7 @@
 운동량과 체중을 기록하고 걸음 수를 확인해보세요!
 </br>
 
-### :pizza:: 식단 :fries:
+### :pizza: 식단 :pizza:
 <img src="https://user-images.githubusercontent.com/86236392/189482190-9f9fb533-6043-4acd-8f03-1f63acdc22d3.jpg" width="280px" height="500px"></img><br/>
 식단을 기록하고 칼로리를 확인하세요!
 </br>
