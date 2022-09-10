@@ -5,14 +5,17 @@
 </br>
 ## :penguin: 개발환경
 안드로이드 스튜디오
-
 </br>
 </br>
 </br>
 ## :penguin: 기능
+### :book: 다이어리 :book: 
+다이어트 일기를 사진과 함께 기록하세요!!
+
 </br>
 </br>
 </br>
+
 ## :penguin: 동작 화면
 </br>
 </br>
